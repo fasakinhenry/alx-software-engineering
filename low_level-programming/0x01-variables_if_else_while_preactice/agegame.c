@@ -11,6 +11,7 @@ int main(void)
 	/* Define variables to get age */
 	int age;
 
+
 	/* Get the age of the user */
 	printf("Enter your age: ");
 	scanf("%d", &age);
