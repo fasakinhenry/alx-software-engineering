@@ -2,13 +2,14 @@
 #include <stdio.h>
 
 /**
- * print_alphabet_x10 -  prints 10 times the alphabet, in lowercase, followed by a new line.
- * 
+ * print_alphabet_x10 - prints 10 * the alphabet, in lowercase
+ * followed by a new line
+ *
  * Return: On sccess, 1
- * on error, returns -1 with the appropriate set errno 
+ * on error, returns -1 with the errno set appropriately
 */
 
-void print_alphabet_x10 (void)
+void print_alphabet_x10(void)
 {
 	char digit;
 	char alpha;
@@ -22,6 +23,5 @@ void print_alphabet_x10 (void)
 			_putchar(alpha);
 		}
 		_putchar('\n');
-		
 	}
 }
