@@ -12,4 +12,13 @@ void print_alphabet_x10(void);
 /* Checks for lowercase character */
 int _islower(int c);
 
+/* checks for alphabetic character */
+int _isalpha(int c);
+
+/* Prints the sign of a number */
+int print_sign(int n);
+
+/* function that computes the absolute value of an integer. */
+int _abs(int);
+
 #endif
