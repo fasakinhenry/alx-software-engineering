@@ -5,7 +5,7 @@
 /**
  * _abs - computes the absolute value of an integer.
  * @n: Parameter to be checked
- * Return: on succes, 0
+ * Return: on success, 0
  * on error, -1 is returned and the errorno is set appropriately
 */
 
