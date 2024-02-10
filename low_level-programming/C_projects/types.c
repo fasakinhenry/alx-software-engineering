@@ -17,6 +17,11 @@ int main(void)
 	unsigned short g;
 	long h;
 	unsigned long i;
+	float j;
+	double k;
+	long double l;
+
+	printf("# The Integer types and their value tables\n\n");
 	printf("The size of char: %ld \n", sizeof(a));
 	printf("The size of unsigned char: %ld \n", sizeof(b));
 	printf("The size of signed char: %ld \n", sizeof(c));
@@ -26,5 +31,9 @@ int main(void)
 	printf("The size of unsigned short: %ld \n", sizeof(g));
 	printf("The size of long: %ld \n", sizeof(h));
 	printf("The size of unsigned long: %ld \n", sizeof(i));
+	printf("\n # The Floating-point types and their value tables\n\n");
+	printf("The size of float: %ld \n", sizeof(j));
+	printf("The size of double: %ld \n", sizeof(k));
+	printf("The size of long double: %ld \n", sizeof(l));
 	return (0);
 }
