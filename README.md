@@ -1,5 +1,6 @@
-# alx-practice
-# ALX Practice Repository
+# ALX
+
+## ALX Practice Repository
 
 Welcome to my ALX practice repository! This repository serves as a documentation hub for all the coursework I complete during my ALX course. Here, you will find detailed information about each course and the concepts covered in them.
 
