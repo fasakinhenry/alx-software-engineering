@@ -60,6 +60,9 @@ Any form of plagiarism is strictly forbidden and will result in removal from the
 
 ## Quiz questions
 
+<details>
+  <summary>Click to expand the quiz questions</summary>
+
 ### Question #0
 
 Which command should you use to list all files of your current directory?
@@ -159,6 +162,8 @@ Which command should you use to delete a file (or directory if additional argume
 - [ ] `mkdir`
 - [ ] `cp`
 - [ ] `rmdir`
+
+</details>
 
 ## Tasks
 
