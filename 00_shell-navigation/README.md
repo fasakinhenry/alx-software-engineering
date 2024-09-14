@@ -4,7 +4,7 @@
 
 🖥️ **Shell** 🐚 **Bash**
 
-![Shell](https://img.shields.io/badge/Topic-Shell-code-blue)
+![Shell](https://img.shields.io/badge/Topic-Shell-blue)
 ![Bash](https://img.shields.io/badge/Topic-Bash-green)
 
 ## Welcome to the Matrix
