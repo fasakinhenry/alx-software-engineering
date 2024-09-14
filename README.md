@@ -5,26 +5,8 @@ Welcome to my ALX practice repository! This repository serves as a documentation
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Courses](#courses)
 - [Folder Structure](#folder-structure)
 - [Projects](#projects)
-
-## Courses
-
-1. Course 1: Course Name
-    - Description: Briefly describe the course and its objectives.
-    - Topics Covered: List the main topics or concepts covered in the course.
-    - Resources: Provide links to any relevant resources or documentation related to the course.
-
-2. Course 2: Course Name
-    - Description: Briefly describe the course and its objectives.
-    - Topics Covered: List the main topics or concepts covered in the course.
-    - Resources: Provide links to any relevant resources or documentation related to the course.
-
-<!-- Add more courses as needed -->
-
-Feel free to explore the different courses documented in this repository. If you have any questions or suggestions, please feel free to reach out.
 
 ## Folder Structure
 
