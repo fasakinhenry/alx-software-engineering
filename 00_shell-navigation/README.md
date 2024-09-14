@@ -29,13 +29,16 @@ For this project, please start and connect to your Sandbox Ubuntu 20.04.
 - `man mkdir`
 - `man rmdir`
 
-Extra resources:
-- Linux - /tmp
+### Extra resources:
+
+- [Linux - /tmp](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/tmp.html)
 
 ## Learning Objectives
+
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 ### General
+
 - How to navigate in an Unix system
 - How to list files and directories
 - How to display the content of a file
@@ -44,6 +47,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How to move or copy a file or directory
 
 ## Copyright - Plagiarism
+
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 You are not allowed to publish any content of this project.
