@@ -1,5 +1,8 @@
 # 0x00. Shell, navigation
 
+![Shell](https://img.shields.io/badge/Topic-Shell-blue)
+![Bash](https://img.shields.io/badge/Topic-Bash-green)
+
 ## Welcome to the Matrix
 
 ![matrix](https://github.com/user-attachments/assets/e148d3e2-a2fb-4e04-8b8d-dcbc82455717)
