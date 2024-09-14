@@ -4,11 +4,8 @@
 
 🖥️ **Shell** 🐚 **Bash**
 
-![Shell](https://img.shields.io/badge/Topic-Shell-blue)
+![Shell](https://img.shields.io/badge/Topic-Shell-code-blue)
 ![Bash](https://img.shields.io/badge/Topic-Bash-green)
-
-<span style="background-color: #007bff; color: white; padding: 2px 4px; border-radius: 3px;">Shell</span>
-<span style="background-color: #28a745; color: white; padding: 2px 4px; border-radius: 3px;">Bash</span>
 
 ## Welcome to the Matrix
 
