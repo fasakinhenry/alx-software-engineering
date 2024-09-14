@@ -5,12 +5,10 @@ Welcome to my ALX practice repository! This repository serves as a documentation
 
 ## Table of Contents
 
-- [alx-practice](#alx-practice)
-- [ALX Practice Repository](#alx-practice-repository)
-  - [Table of Contents](#table-of-contents)
-  - [Courses](#courses)
-  - [Folder Structure](#folder-structure)
-  - [Projects](#projects)
+- [Table of Contents](#table-of-contents)
+- [Courses](#courses)
+- [Folder Structure](#folder-structure)
+- [Projects](#projects)
 
 ## Courses
 
