@@ -1,10 +1,6 @@
 # 0x00. Shell, navigation
 
-`Shell` `Bash`
-
-🖥️ **Shell** 🐚 **Bash**
-
-![Shell](https://img.shields.io/badge/Topic-Shell-blue)
+![`Shell`](https://img.shields.io/badge/Topic-Shell-blue)
 ![Bash](https://img.shields.io/badge/Topic-Bash-blue)
 
 ## Welcome to the Matrix
