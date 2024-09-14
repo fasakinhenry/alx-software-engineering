@@ -55,6 +55,7 @@ A repository to practice all my ALX skills
 🛠️ **Onboarding**
 
 ### Onboarding - Getting started
+
 - [ ] Welcome on board
 - [ ] Getting hooked on Slack
 - [ ] Deep dive into the Intranet
@@ -68,6 +69,7 @@ A repository to practice all my ALX skills
 - [ ] Preserving your mental health & Conquering imposter syndrome
 
 ### Onboarding - Tools
+
 - [ ] 0x00. Shell, navigation
 - [ ] 0x02. Emacs
 - [ ] 0x03. vi
@@ -76,6 +78,7 @@ A repository to practice all my ALX skills
 🚀 **0-Day**
 
 ### 0-Day - 0-Day
+
 - [ ] 0x00. Shell, navigation
 - [ ] 0x01. Emacs
 - [ ] 0x02. vi
@@ -86,6 +89,7 @@ A repository to practice all my ALX skills
 🔧 **Low-level programming & Algorithm**
 
 ### Low-level programming & Algorithm - Hatching out
+
 - [ ] 0x00. C - Hello, World
 - [ ] 0x01. C - Variables, if, else, while
 - [ ] First Day of C Programming
@@ -110,6 +114,7 @@ A repository to practice all my ALX skills
 - [ ] 0x1C. C - Makefiles
 
 ### Low-level programming & Algorithm - Data structures and Algorithms
+
 - [ ] 0x12. C - Singly linked lists
 - [ ] 0x13. C - More singly linked lists
 - [ ] 0x17. C - Doubly linked lists
@@ -120,12 +125,14 @@ A repository to practice all my ALX skills
 - [ ] 0x1E. C - Search Algorithms
 
 ### Low-level programming & Algorithm - Linux and Unix system programming
+
 - [ ] 0x15. C - File I/O
 - [ ] 0x16. C - Simple Shell
 
 💻 **Higher-level programming**
 
 ### Higher-level programming - Python
+
 - [ ] 0x00. Python - Hello, World
 - [ ] 0x01. Python - if/else, loops, functions
 - [ ] 0x02. Python - import & modules
@@ -144,16 +151,19 @@ A repository to practice all my ALX skills
 - [ ] 0x11. Python - Network #1
 
 ### Higher-level programming - Javascript
+
 - [ ] 0x12. JavaScript - Warm up
 - [ ] 0x13. JavaScript - Objects, Scopes and Closures
 - [ ] 0x14. JavaScript - Web scraping
 - [ ] 0x15. JavaScript - Web jQuery
 
 ### Higher-level programming - Databases
+
 - [ ] 0x0D. SQL - Introduction
 - [ ] 0x0E. SQL - More queries
 
 ### Higher-level programming - AirBnB clone
+
 - [ ] 0x00. AirBnB clone - The console
 - [ ] 0x01. AirBnB clone - Web static
 - [ ] 0x02. AirBnB clone - MySQL
@@ -165,6 +175,7 @@ A repository to practice all my ALX skills
 🔧 **System engineering & DevOps**
 
 ### System engineering & DevOps - Bash
+
 - [ ] 0x00. Shell, basics
 - [ ] 0x01. Shell, permissions
 - [ ] 0x02. Shell, I/O Redirections and filters
@@ -173,15 +184,18 @@ A repository to practice all my ALX skills
 - [ ] 0x05. Processes and signals
 
 ### System engineering & DevOps - Scripting
+
 - [ ] 0x06. Regular expression
 - [ ] 0x15. API
 - [ ] 0x16. API advanced
 
 ### System engineering & DevOps - Networking
+
 - [ ] 0x07. Networking basics #0
 - [ ] 0x08. Networking basics #1
 
 ### System engineering & DevOps - Web stack
+
 - [ ] 0x09. Web infrastructure design
 - [ ] 0x0C. Web server
 - [ ] 0x0F. Load balancer
@@ -192,16 +206,20 @@ A repository to practice all my ALX skills
 - [ ] 0x1A. Application server
 
 ### System engineering & DevOps - Security
+
 - [ ] 0x0B. SSH
 - [ ] 0x13. Firewall
 
 ### System engineering & DevOps - On call
+
 - [ ] 0x19. Postmortem
 
 ### System engineering & DevOps - CI/CD
+
 - [ ] 0x0A. Configuration management
 
 ### System engineering & DevOps - Web stack debugging
+
 - [ ] 0x0D. Web stack debugging #0
 - [ ] 0x0E. Web stack debugging #1
 - [ ] 0x12. Web stack debugging #2
@@ -211,12 +229,14 @@ A repository to practice all my ALX skills
 📚 **Technical Writing and Networking**
 
 ### Technical Writing and Networking - Social media
+
 - [ ] Professional Relationships
 - [ ] Professional Social Presence
 
 🎉 **More!**
 
 ### More! - More!
+
 - [ ] RSA Factoring Challenge
 - [ ] Command line for the win
 - [ ] 0x00. Fix my code
@@ -226,6 +246,7 @@ A repository to practice all my ALX skills
 📁 **Portfolio Project**
 
 ### Portfolio Project - Portfolio Project
+
 - [ ] Research & Project approval (Part 1)
 - [ ] Research & Project approval (Part 2)
 - [ ] Research & Project approval (Part 3)
