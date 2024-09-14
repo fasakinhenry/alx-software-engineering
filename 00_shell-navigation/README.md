@@ -60,7 +60,105 @@ Any form of plagiarism is strictly forbidden and will result in removal from the
 
 ## Quiz questions
 
-Great! You've completed the quiz successfully! Keep going! (Show quiz)
+### Question #0
+
+Which command should you use to list all files of your current directory?
+
+- [x] `ls`
+- [ ] `cd`
+- [ ] `less`
+- [ ] `touch`
+- [ ] `pwd`
+
+### Question #1
+
+Which command should you use to create an empty file?
+
+- [x] `touch`
+- [ ] `cd`
+- [ ] `less`
+- [ ] `ls`
+- [ ] `pwd`
+
+### Question #2
+
+Which command should you use to create a directory?
+
+- [ ] `rm`
+- [ ] `mv`
+- [ ] `cp`
+- [x] `mkdir`
+- [ ] `rmdir`
+
+### Question #3
+
+Which command should you use to display the content of a file?
+
+- [x] `less`
+- [ ] `cd`
+- [ ] `ls`
+- [ ] `touch`
+- [ ] `pwd`
+
+### Question #4
+
+Which command should you use to change directory?
+
+- [ ] `ls`
+- [ ] `pwd`
+- [ ] `less`
+- [x] `cd`
+- [ ] `touch`
+
+### Question #5
+
+Which command should you use to copy a file (or directory if additional argument)?
+
+- [ ] `rm`
+- [x] `cp`
+- [ ] `mv`
+- [ ] `rmdir`
+- [ ] `mkdir`
+
+### Question #6
+
+Which command should you use to delete a directory?
+
+- [ ] `mv`
+- [ ] `rm`
+- [ ] `mkdir`
+- [x] `rmdir`
+- [ ] `cp`
+
+### Question #7
+
+Which command should you use to rename or move a file (or directory)?
+
+- [x] `mv`
+- [ ] `rm`
+- [ ] `mkdir`
+- [ ] `rmdir`
+- [ ] `cp`
+
+### Question #8
+
+Which command should you use to display the current path of your current directory?
+
+- [ ] `cd`
+- [ ] `ls`
+- [ ] `touch`
+- [ ] `less`
+- [x] `pwd`
+
+### Question #9
+
+Which command should you use to delete a file (or directory if additional argument)?
+
+- [ ] `mv`
+- [x] `rm`
+- [ ] `mkdir`
+- [ ] `cp`
+- [ ] `rmdir`
 
 ## Tasks
 
