@@ -56,8 +56,8 @@ A repository to practice all my ALX skills
 
 ### Onboarding - Getting started
 
-- [ ] Welcome on board
-- [ ] Getting hooked on Slack
+- [x] Welcome on board
+- [x] Getting hooked on Slack
 - [ ] Deep dive into the Intranet
 - [ ] Introduction to mindsets (Grit and growth mindsets)
 - [ ] A tweet a day keeps the @julienbarbier42 far away
