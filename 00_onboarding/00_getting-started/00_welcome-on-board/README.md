@@ -51,3 +51,43 @@ You are willing and able to do the hard things - even when no one believes in yo
   - [ ] Doing Hard things
 
 </details>
+
+# Tasks
+
+## 0. Do Hard Things (Mandatory)
+
+### Task Description
+
+[!TIP]
+You can do hard things.
+
+You have watched Fred’s video.
+
+### Quote Reflection
+
+> "Of all the hard things we have to do every day, the most difficult one of them all is to keep going."
+
+In less than 100 words, explain your understanding of the above quote from the video. In what ways have you lived by this quote in the past?
+
+### Instructions
+
+1. **Create a Google Document**:
+   - Write your reflection in a Google Document.
+   - Ensure the document is accessible to anyone with the link.
+
+2. **Add the URL**:
+   - Copy the URL of your Google Document.
+   - Paste it in the URL box provided.
+
+3. **Peer Review**:
+   - Ask a peer to review your project.
+
+### Important
+
+- Don’t forget to click the red Save button on the right to save your Google Document URL.
+- Make sure you have set the permissions of your Google Document to “Anyone with the link” before sharing it with your peers.
+
+### Answer
+
+- [Google Document 1](https://docs.google.com/document/d/1JaA6cE5YyWTrKcugiOQQ8UFGMSIn75_cDk1YzQJ7wmM/edit?usp=sharing)
+- [Google Document 2](https://docs.google.com/document/d/1lsG8sSq3-L4fKBNrCPK8IZKB-7HDjNMb-6QiHU6Uxmk/edit?usp=sharing)
