@@ -71,7 +71,7 @@ $ git push origin main
 ## Quiz Questions
 
 <details>
-  <summary>Click to expand the quiz questions</summary>
+  <summary>*Click to expand the quiz questions*</summary>
 
   ### Question #0
   What command can you use to see what changes have been staged, which haven’t, and which files aren’t being tracked by Git?
