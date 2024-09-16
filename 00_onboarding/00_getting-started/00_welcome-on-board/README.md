@@ -59,7 +59,7 @@ You are willing and able to do the hard things - even when no one believes in yo
 ### Task Description
 
 [!TIP]
-You can do hard things.
+> You can do hard things.
 
 You have watched Fred’s video.
 
