@@ -24,7 +24,7 @@ Resources for advanced tasks (Read only after finishing the mandatory tasks):
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-### General
+## General
 
 - What is source code management
 - What is Git
@@ -70,27 +70,30 @@ $ git push origin main
 ```
 ## Quiz Questions
 
-### Question #0
-What command can you use to see what changes have been staged, which haven’t, and which files aren’t being tracked by Git?
+<details>
+  <summary>Click to expand the quiz questions</summary>
 
-- [x] `git status`
-- [ ] `git checkout`
-- [ ] `git init`
+  ### Question #0
+  What command can you use to see what changes have been staged, which haven’t, and which files aren’t being tracked by Git?
 
-### Question #1
+  - [x] `git status`
+  - [ ] `git checkout`
+  - [ ] `git init`
 
-You have the following files in your project directory:
+  ### Question #1
+  You have the following files in your project directory:
 
-```sh
-julien@ubuntu:/tmp/git_project$ ls
-0-test  0-test~ #0-test# file1  file2
-```
+  ```sh
+  julien@ubuntu:/tmp/git_project$ ls
+  0-test  0-test~ #0-test# file1  file2
+  ```
 
-You’ve edited 0-test and you want to add it to your GitHub repo. What is the correct command to add only 0-test?
+  You’ve edited 0-test and you want to add it to your GitHub repo. What is the correct command to add only 0-test?
 
-- [ ] git add -N 0-test
-- [x] git add 0-test
-- [ ] git add .
+  - [ ] git add -N 0-test
+  - [x] git add 0-test
+  - [ ] git add .
+</details>
 
 ## Tasks
 
