@@ -97,20 +97,21 @@ $ git push origin main
 
 ## Tasks
 
-### 0. Create and setup your Git and GitHub account (mandatory)
+### 0. Create and set up your Git and GitHub account (mandatory)
 
 **Step 0 - Create an account on GitHub [if you do not have one already]**
 
 You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free here
 
-**Step 1 - Create a Personal Access Token on Github**
+**Step 1 - Create a Personal Access Token on GitHub**
 
-To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
+To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on GitHub.
 
 You can follow this [tutorial](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) to create a token.
 
 Once it’s created, you should have a token that looks like this:
 
+![a449483cd76a72cef1b42df831e686c64faa1cf6](https://github.com/user-attachments/assets/8a31f757-5fdb-465d-8e50-ca221a3b1ebc)
 
 **Step 2 - Update your profile on the Intranet**
 
@@ -127,6 +128,7 @@ Description: I'm now a ALX Student, this is my first repository as a full-stack 
 Public repo
 No README, .gitignore, or license
 
+<img width="740" alt="2340a2d0f7c74b5dd6f8fc2aa58f94d13ea2c775" src="https://github.com/user-attachments/assets/410e850f-7c98-41c1-bdb1-4738e8ca8e09">
 
 Step 4 - Open the sandbox
 On the intranet, just under the task, click on the button  and run to start the machine.
