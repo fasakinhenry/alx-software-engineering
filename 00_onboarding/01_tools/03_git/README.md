@@ -123,14 +123,15 @@ If it’s not done the Checker won’t be able to correct your work
 
 Using the graphic interface on the github website, create your first repository.
 
-Name: alx-pre_course
-Description: I'm now a ALX Student, this is my first repository as a full-stack engineer
-Public repo
-No README, .gitignore, or license
+- Name: `alx-pre_course`
+- Description: `I'm now a ALX Student, this is my first repository as a full-stack engineer`
+- Public repo
+- No `README`, `.gitignore`, or license
 
 <img width="740" alt="2340a2d0f7c74b5dd6f8fc2aa58f94d13ea2c775" src="https://github.com/user-attachments/assets/410e850f-7c98-41c1-bdb1-4738e8ca8e09">
 
-Step 4 - Open the sandbox
+**Step 4 - Open the sandbox**
+
 On the intranet, just under the task, click on the button  and run to start the machine.
 
 Once the container is started, click on  to open a shell where you can start work from.
