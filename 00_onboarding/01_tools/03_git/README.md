@@ -99,11 +99,11 @@ $ git push origin main
 
 ### 0. Create and set up your Git and GitHub account (mandatory)
 
-**Step 0 - Create an account on GitHub [if you do not have one already]**
+#### Step 0 - Create an account on GitHub [if you do not have one already]
 
 You will need a GitHub account for all your projects at ALX. If you do not already have a github.com account, you can create an account for free here
 
-**Step 1 - Create a Personal Access Token on GitHub**
+#### Step 1 - Create a Personal Access Token on GitHub
 
 To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on GitHub.
 
@@ -113,13 +113,13 @@ Once it’s created, you should have a token that looks like this:
 
 ![a449483cd76a72cef1b42df831e686c64faa1cf6](https://github.com/user-attachments/assets/8a31f757-5fdb-465d-8e50-ca221a3b1ebc)
 
-**Step 2 - Update your profile on the Intranet**
+#### Step 2 - Update your profile on the Intranet
 
 Update your Intranet profile by adding your Github username to the intranet
 
 If it’s not done the Checker won’t be able to correct your work
 
-**Step 3 - Create your first repository**
+#### Step 3 - Create your first repository
 
 Using the graphic interface on the github website, create your first repository.
 
@@ -130,37 +130,54 @@ Using the graphic interface on the github website, create your first repository.
 
 <img width="740" alt="2340a2d0f7c74b5dd6f8fc2aa58f94d13ea2c775" src="https://github.com/user-attachments/assets/410e850f-7c98-41c1-bdb1-4738e8ca8e09">
 
-**Step 4 - Open the sandbox**
+#### Step 4 - Open the sandbox
 
-On the intranet, just under the task, click on the button  and run to start the machine.
+On the intranet, just under the task, click on the button `>_ Get a Sandbox` and `run` to start the machine.
 
-Once the container is started, click on  to open a shell where you can start work from.
+Once the container is started, click on `>_ Webterm` to open a shell where you can start work from.
 
-Step 5 - Clone your repository
+#### Step 5 - Clone your repository
+
 On the webterm of the sandbox, do the following:
 
-Clone your repository
+- Clone your repository
+
+```shell
 root@896cf839cf9a:/# git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-pre_course.git                  
 Cloning into 'alx-pre_course'...
-warning: You appear to have cloned an empty repository.       
-Replace {YOUR_PERSONAL_TOKEN} with your token from step 1
+warning: You appear to have cloned an empty repository.
+```
 
-Replace {YOUR_USERNAME} with your username from step 0 and 1
+**Replace {YOUR_PERSONAL_TOKEN} with your token from step 1**
 
-Pro-Tip: On windows, use CTRL + A + V to paste in the web terminal
+**Replace {YOUR_USERNAME} with your username from step 0 and 1**
 
-Step 6 - Create the README.md and push the modifications
-Navigate to this new directory. Tips
+**Pro-Tip:** On windows, use CTRL + A + V to paste in the web terminal
+
+#### Step 6 - Create the README.md and push the modifications
+
+- Navigate to this new directory. [Tips](https://askubuntu.com/questions/232442/how-do-i-navigate-between-directories-in-terminal)
+
+```shell
 root@896cf839cf9a:/# cd alx-pre_course/
-root@896cf839cf9a:/alx-pre_course#
-Create the file README.md with the content My first readme. Tips
-root@896cf839cf9a:/alx-pre_course# echo 'My first readme' > README.md                                                                 
-root@896cf839cf9a:/alx-pre_course# cat README.md                                                                                      
-My first readme                                                                                                                       
-Update your git identity
+root@896cf839cf9a:/alx-pre_course# ls
+```
+
+- Create the file `README.md` with the content `My first readme`. [Tips](https://askubuntu.com/questions/232442/how-do-i-navigate-between-directories-in-terminal)
+
+```shell
+root@896cf839cf9a:/alx-pre_course# echo 'My first readme' > README.md
+```
+
+- Update your git identity
+
+```shell
 root@896cf839cf9a:/alx-pre_course# git config --global user.email "you@example.com"
 root@896cf839cf9a:/alx-pre_course# git config --global user.name "Your Name"
-Add this new file to git, commit the change with this message “My first commit” and push to the remote server / origin
+```
+- Add this new file to git, commit the change with this message “My first commit” and push to the remote server / origin
+
+```shell
 root@896cf839cf9a:/alx-pre_course# git add .
 root@896cf839cf9a:/alx-pre_course# git commit -m 'My first commit'
 [master (root-commit) 98eef93] My first commit
@@ -172,19 +189,23 @@ Counting objects: 100% (3/3), done.
 Writing objects: 100% (3/3), 212 bytes | 212.00 KiB/s, done.                                                                          
 Total 3 (delta 0), reused 0 (delta 0)                                                                                                 
 To https://github.com/{YOUR_USERNAME}/alx-pre_course.git                                                                                       
- * [new branch]      master -> master              
+ * [new branch]      master -> master
+```
+
 Good job!
 
-You pushed your first file in your first repository of the first task of your first ALX School project.
+You pushed your first file in your **first repository** of the **first task** of your **first ALX School project.**
 
 You can now check your repository on GitHub to see if everything is good.
 
-Repo:
+#
 
-GitHub repository: alx-pre_course
-File: README.md
+**Repo:**
+
+GitHub repository: `alx-pre_course`
+File: `README.md`
    
-1. Repo-session
+### 1. Repo-session
 mandatory
 Score: 100.0% (Checks completed: 100.0%)
 Create a new directory called 0x01-git in your alx-pre_course repo.
