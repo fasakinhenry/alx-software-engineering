@@ -90,4 +90,4 @@ In less than 100 words, explain your understanding of the above quote from the v
 - [Google Document: Fred Swaniker's quote](https://docs.google.com/document/d/1JaA6cE5YyWTrKcugiOQQ8UFGMSIn75_cDk1YzQJ7wmM/edit?usp=sharing)
 - [Google Document: #DoHardThings Explanation](https://docs.google.com/document/d/1lsG8sSq3-L4fKBNrCPK8IZKB-7HDjNMb-6QiHU6Uxmk/edit?usp=sharing)
 
-> *Copyright © 2024 ALX, All rights reserved.*
+*Copyright © 2024 ALX, All rights reserved.*
