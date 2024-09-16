@@ -20,7 +20,7 @@ For this project, we expect you to look at these concepts:
 
 https://github.com/user-attachments/assets/86cb7ed4-455c-4d3f-aacd-afbf40c9c044
 
-## You can do hard things
+# You can do hard things
 
 Take a deep breath. You’re here - you made it. Take note of how you’re feeling after watching that video, and give that feeling a name. Think about where in your body you felt it and what it felt like.
 
@@ -87,5 +87,5 @@ In less than 100 words, explain your understanding of the above quote from the v
 
 ### Answer
 
-- [Google Document 1](https://docs.google.com/document/d/1JaA6cE5YyWTrKcugiOQQ8UFGMSIn75_cDk1YzQJ7wmM/edit?usp=sharing)
-- [Google Document 2](https://docs.google.com/document/d/1lsG8sSq3-L4fKBNrCPK8IZKB-7HDjNMb-6QiHU6Uxmk/edit?usp=sharing)
+- [Google Document: Fred Swaniker's quote](https://docs.google.com/document/d/1JaA6cE5YyWTrKcugiOQQ8UFGMSIn75_cDk1YzQJ7wmM/edit?usp=sharing)
+- [Google Document: #DoHardThings Explanation](https://docs.google.com/document/d/1lsG8sSq3-L4fKBNrCPK8IZKB-7HDjNMb-6QiHU6Uxmk/edit?usp=sharing)
