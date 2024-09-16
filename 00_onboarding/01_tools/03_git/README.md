@@ -1,4 +1,4 @@
-# 03 Git
+# Git
 
 ## Concepts
 
