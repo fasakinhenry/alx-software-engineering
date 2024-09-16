@@ -56,8 +56,6 @@ You are willing and able to do the hard things - even when no one believes in yo
 
 ## 0. Do Hard Things (Mandatory)
 
-### Task Description
-
 > [!NOTE]
 > You can do hard things.
 
