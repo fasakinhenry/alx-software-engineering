@@ -112,15 +112,14 @@ You can follow this [tutorial](https://docs.github.com/en/authentication/keeping
 Once it’s created, you should have a token that looks like this:
 
 
+**Step 2 - Update your profile on the Intranet**
 
-Step 2 - Update your profile on the Intranet
-Update your Intranet profile by adding your Github username here
+Update your Intranet profile by adding your Github username to the intranet
 
 If it’s not done the Checker won’t be able to correct your work
 
+**Step 3 - Create your first repository**
 
-
-Step 3 - Create your first repository
 Using the graphic interface on the github website, create your first repository.
 
 Name: alx-pre_course
